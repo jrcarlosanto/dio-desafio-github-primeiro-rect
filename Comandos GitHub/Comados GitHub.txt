@@ -1,0 +1,17 @@
+* Abrir Git Bash
+
+* Clonar resositório
+  git clone https://github.com/jrcarlosanto/dio-desafio-github-primeiro-rect.git
+
+* Status do repositório
+  git status
+
+* Adiconar Arquivos
+  git add .
+
+* Comitar(sersão) os arquivos para ser adicionado
+  git commit -m "anotações"
+
+* Eviar os arquivos para o repositírio GitHub
+  git push origin main
+
